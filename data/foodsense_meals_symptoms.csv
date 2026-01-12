@@ -1,0 +1,221 @@
+meal_id,date,meal_time,food,portion_size,had_coffee,sleep_quality,stress_level,location,symptom,symptom_severity,hours_after_meal
+1,2024-10-01,Morning,milk,Large,Yes,Okay,Low,Office,Acidity,10,3
+2,2024-10-01,Afternoon,paratha,Medium,Yes,Okay,Low,Street,None,0,0
+3,2024-10-01,Evening,chicken curry,Large,No,Okay,Low,Street,Fatigue,9,4
+4,2024-10-02,Morning,fish,Large,No,Poor,High,Restaurant,Bloating,3,3
+5,2024-10-02,Afternoon,paneer curry,Medium,No,Poor,High,Home,None,0,0
+6,2024-10-03,Morning,whole wheat bread,Small,No,Okay,Medium,Home,Brain fog,8,3
+7,2024-10-03,Afternoon,bread,Medium,Yes,Okay,Medium,Street,None,0,0
+8,2024-10-04,Morning,poha,Large,Yes,Okay,Medium,Home,Fatigue,5,4
+9,2024-10-04,Afternoon,milk,Large,No,Okay,Medium,Street,Acidity,3,3
+10,2024-10-05,Morning,biryani,Medium,Yes,Good,Low,Office,Fatigue,4,4
+11,2024-10-05,Afternoon,biryani,Small,No,Good,Low,Home,None,0,0
+12,2024-10-05,Evening,milk,Large,No,Good,Low,Home,Nausea,9,4
+13,2024-10-06,Morning,dosa,Large,Yes,Poor,Low,Street,Fatigue,3,4
+14,2024-10-06,Afternoon,overnight oats,Small,Yes,Poor,Low,Home,None,0,0
+15,2024-10-06,Evening,rajma,Large,No,Poor,Low,Restaurant,None,0,0
+16,2024-10-07,Morning,paneer curry,Small,Yes,Good,High,Restaurant,Acidity,3,3
+17,2024-10-07,Afternoon,naan,Small,No,Good,High,Home,None,0,0
+18,2024-10-07,Evening,pulao,Large,Yes,Good,High,Office,Nausea,6,1
+19,2024-10-08,Morning,pasta,Medium,No,Okay,Low,Home,None,0,0
+20,2024-10-08,Afternoon,rajma,Medium,Yes,Okay,Low,Office,Bloating,8,2
+21,2024-10-09,Morning,poha,Large,Yes,Good,High,Street,None,0,0
+22,2024-10-09,Afternoon,salad,Small,Yes,Good,High,Restaurant,Fatigue,10,3
+23,2024-10-10,Morning,bread,Medium,Yes,Good,High,Home,Fatigue,6,4
+24,2024-10-10,Afternoon,chole,Large,Yes,Good,High,Street,Bowel movement,3,2
+25,2024-10-10,Evening,boiled eggs,Small,Yes,Good,High,Home,None,0,0
+26,2024-10-11,Morning,boiled eggs,Large,No,Poor,Medium,Street,None,0,0
+27,2024-10-11,Afternoon,dal,Medium,No,Poor,Medium,Home,None,0,0
+28,2024-10-11,Evening,rice,Large,Yes,Poor,Medium,Home,Fatigue,3,1
+29,2024-10-12,Morning,boiled eggs,Medium,No,Good,Medium,Home,None,0,0
+30,2024-10-12,Afternoon,paratha,Medium,No,Good,Medium,Restaurant,Bloating,7,4
+31,2024-10-13,Morning,paratha,Large,No,Good,Low,Office,None,0,0
+32,2024-10-13,Afternoon,whole wheat bread,Medium,No,Good,Low,Office,None,0,0
+33,2024-10-14,Morning,omelette,Medium,Yes,Poor,High,Restaurant,Nausea,9,2
+34,2024-10-14,Afternoon,dal,Medium,Yes,Poor,High,Restaurant,None,0,0
+35,2024-10-14,Evening,pulao,Small,No,Poor,High,Street,None,0,0
+36,2024-10-15,Morning,fish,Small,No,Good,Low,Street,Gas,7,4
+37,2024-10-15,Afternoon,vegetables,Small,Yes,Good,Low,Home,None,0,0
+38,2024-10-16,Morning,roti,Large,No,Good,Low,Street,Bloating,3,1
+39,2024-10-16,Afternoon,salad,Small,Yes,Good,Low,Restaurant,None,0,0
+40,2024-10-16,Evening,salad,Medium,No,Good,Low,Restaurant,None,0,0
+41,2024-10-17,Morning,milk,Large,No,Poor,High,Home,None,0,0
+42,2024-10-17,Afternoon,rice,Medium,No,Poor,High,Home,Nausea,4,1
+43,2024-10-18,Morning,biryani,Large,Yes,Poor,Medium,Restaurant,Acidity,9,3
+44,2024-10-18,Afternoon,paneer curry,Medium,No,Poor,Medium,Street,None,0,0
+45,2024-10-19,Morning,paratha,Small,Yes,Poor,Medium,Restaurant,Bowel movement,10,3
+46,2024-10-19,Afternoon,rice,Small,No,Poor,Medium,Street,Bowel movement,3,2
+47,2024-10-20,Morning,paratha,Large,Yes,Good,High,Home,Bowel movement,5,4
+48,2024-10-20,Afternoon,butter chicken,Small,No,Good,High,Restaurant,None,0,0
+49,2024-10-20,Evening,fish,Medium,No,Good,High,Office,None,0,0
+50,2024-10-21,Morning,bread,Small,No,Okay,High,Street,None,0,0
+51,2024-10-21,Afternoon,bread,Large,Yes,Okay,High,Office,Brain fog,3,4
+52,2024-10-22,Morning,salad,Large,Yes,Poor,High,Office,None,0,0
+53,2024-10-22,Afternoon,naan,Small,Yes,Poor,High,Street,Bowel movement,3,1
+54,2024-10-22,Evening,vegetables,Large,Yes,Poor,High,Home,None,0,0
+55,2024-10-23,Morning,beans curry,Small,No,Okay,High,Office,Bowel movement,8,2
+56,2024-10-23,Afternoon,vegetables,Large,Yes,Okay,High,Restaurant,Nausea,6,1
+57,2024-10-24,Morning,egg curry,Medium,No,Good,Low,Restaurant,Bloating,7,3
+58,2024-10-24,Afternoon,beans curry,Medium,Yes,Good,Low,Street,None,0,0
+59,2024-10-24,Evening,overnight oats,Small,Yes,Good,Low,Home,None,0,0
+60,2024-10-25,Morning,rajma,Small,No,Poor,Medium,Office,None,0,0
+61,2024-10-25,Afternoon,butter chicken,Large,Yes,Poor,Medium,Restaurant,Gas,10,3
+62,2024-10-25,Evening,upma,Small,Yes,Poor,Medium,Street,None,0,0
+63,2024-10-26,Morning,fish,Small,Yes,Good,High,Street,None,0,0
+64,2024-10-26,Afternoon,overnight oats,Small,No,Good,High,Home,Bowel movement,6,4
+65,2024-10-26,Evening,boiled eggs,Medium,Yes,Good,High,Home,None,0,0
+66,2024-10-27,Morning,naan,Medium,Yes,Okay,Medium,Office,Bloating,4,4
+67,2024-10-27,Afternoon,dal,Small,Yes,Okay,Medium,Restaurant,None,0,0
+68,2024-10-28,Morning,chole,Small,Yes,Poor,Low,Street,Gas,5,4
+69,2024-10-28,Afternoon,omelette,Medium,Yes,Poor,Low,Office,Bloating,6,4
+70,2024-10-28,Evening,upma,Small,Yes,Poor,Low,Street,None,0,0
+71,2024-10-29,Morning,curd,Large,Yes,Good,Low,Restaurant,Bloating,5,4
+72,2024-10-29,Afternoon,boiled eggs,Large,No,Good,Low,Street,None,0,0
+73,2024-10-30,Morning,chicken curry,Large,No,Okay,Medium,Restaurant,None,0,0
+74,2024-10-30,Afternoon,upma,Medium,No,Okay,Medium,Home,None,0,0
+75,2024-10-31,Morning,vegetables,Medium,No,Poor,High,Home,Acidity,5,1
+76,2024-10-31,Afternoon,chole,Medium,No,Poor,High,Office,Bloating,9,1
+77,2024-10-31,Evening,whole wheat bread,Large,No,Poor,High,Restaurant,Bowel movement,4,4
+78,2024-11-01,Morning,dal,Large,Yes,Good,Medium,Home,Bloating,7,2
+79,2024-11-01,Afternoon,whole wheat bread,Large,No,Good,Medium,Office,None,0,0
+80,2024-11-01,Evening,dal,Large,No,Good,Medium,Restaurant,None,0,0
+81,2024-11-02,Morning,upma,Large,No,Poor,High,Office,Gas,4,2
+82,2024-11-02,Afternoon,bread,Medium,Yes,Poor,High,Home,Fatigue,7,2
+83,2024-11-02,Evening,whole wheat bread,Small,No,Poor,High,Restaurant,Bowel movement,10,3
+84,2024-11-03,Morning,paneer curry,Large,No,Poor,Low,Home,None,0,0
+85,2024-11-03,Afternoon,chicken curry,Medium,No,Poor,Low,Office,Nausea,5,3
+86,2024-11-04,Morning,pasta,Medium,No,Poor,High,Restaurant,None,0,0
+87,2024-11-04,Afternoon,bread,Medium,Yes,Poor,High,Office,Brain fog,5,4
+88,2024-11-05,Morning,whole wheat bread,Large,Yes,Okay,Low,Street,Brain fog,6,2
+89,2024-11-05,Afternoon,rice,Small,Yes,Okay,Low,Street,Acidity,5,4
+90,2024-11-06,Morning,vegetables,Medium,Yes,Good,Medium,Street,None,0,0
+91,2024-11-06,Afternoon,boiled eggs,Small,No,Good,Medium,Home,None,0,0
+92,2024-11-06,Evening,biryani,Medium,Yes,Good,Medium,Street,None,0,0
+93,2024-11-07,Morning,dosa,Large,No,Poor,High,Home,None,0,0
+94,2024-11-07,Afternoon,biryani,Large,Yes,Poor,High,Home,Acidity,6,4
+95,2024-11-08,Morning,rice,Medium,Yes,Good,High,Restaurant,Acidity,10,1
+96,2024-11-08,Afternoon,omelette,Small,Yes,Good,High,Restaurant,Fatigue,6,3
+97,2024-11-09,Morning,chole,Medium,Yes,Good,Low,Office,Bloating,6,4
+98,2024-11-09,Afternoon,whole wheat bread,Medium,No,Good,Low,Restaurant,None,0,0
+99,2024-11-10,Morning,upma,Medium,No,Poor,High,Street,Nausea,3,4
+100,2024-11-10,Afternoon,paneer curry,Large,Yes,Poor,High,Office,Bloating,4,2
+101,2024-11-10,Evening,boiled eggs,Small,No,Poor,High,Restaurant,None,0,0
+102,2024-11-11,Morning,fish,Large,No,Okay,Low,Office,None,0,0
+103,2024-11-11,Afternoon,upma,Medium,Yes,Okay,Low,Home,None,0,0
+104,2024-11-12,Morning,whole wheat bread,Large,No,Good,Medium,Office,None,0,0
+105,2024-11-12,Afternoon,chicken curry,Medium,Yes,Good,Medium,Home,None,0,0
+106,2024-11-13,Morning,idli,Small,Yes,Good,Low,Home,None,0,0
+107,2024-11-13,Afternoon,fish,Medium,Yes,Good,Low,Street,Fatigue,6,3
+108,2024-11-13,Evening,curd,Small,Yes,Good,Low,Restaurant,Bloating,9,2
+109,2024-11-14,Morning,vegetables,Medium,No,Poor,Low,Office,None,0,0
+110,2024-11-14,Afternoon,chicken curry,Medium,No,Poor,Low,Restaurant,None,0,0
+111,2024-11-15,Morning,fish,Medium,No,Okay,High,Office,None,0,0
+112,2024-11-15,Afternoon,omelette,Medium,Yes,Okay,High,Office,Bloating,8,2
+113,2024-11-15,Evening,chicken curry,Small,Yes,Okay,High,Restaurant,None,0,0
+114,2024-11-16,Morning,milk,Large,Yes,Good,Low,Street,Nausea,7,1
+115,2024-11-16,Afternoon,rajma,Medium,Yes,Good,Low,Street,Bowel movement,4,3
+116,2024-11-17,Morning,curd,Medium,No,Poor,High,Office,None,0,0
+117,2024-11-17,Afternoon,chole,Medium,No,Poor,High,Home,Bloating,4,4
+118,2024-11-18,Morning,chicken curry,Large,Yes,Good,High,Restaurant,Nausea,9,4
+119,2024-11-18,Afternoon,vegetables,Small,Yes,Good,High,Home,None,0,0
+120,2024-11-19,Morning,upma,Medium,Yes,Good,High,Restaurant,Fatigue,8,1
+121,2024-11-19,Afternoon,idli,Medium,No,Good,High,Street,Bloating,7,4
+122,2024-11-19,Evening,rajma,Small,No,Good,High,Street,Bowel movement,4,1
+123,2024-11-20,Morning,biryani,Large,No,Okay,High,Restaurant,Gas,9,3
+124,2024-11-20,Afternoon,paratha,Large,Yes,Okay,High,Home,Brain fog,5,3
+125,2024-11-21,Morning,fish,Medium,Yes,Okay,Medium,Office,Fatigue,6,1
+126,2024-11-21,Afternoon,biryani,Medium,Yes,Okay,Medium,Home,None,0,0
+127,2024-11-22,Morning,bread,Small,Yes,Poor,Low,Home,Brain fog,4,4
+128,2024-11-22,Afternoon,dal,Medium,Yes,Poor,Low,Street,None,0,0
+129,2024-11-22,Evening,beans curry,Medium,Yes,Poor,Low,Office,None,0,0
+130,2024-11-23,Morning,roti,Large,Yes,Okay,Medium,Restaurant,Bloating,9,3
+131,2024-11-23,Afternoon,egg curry,Medium,No,Okay,Medium,Office,None,0,0
+132,2024-11-24,Morning,beans curry,Medium,No,Okay,Medium,Street,Gas,8,4
+133,2024-11-24,Afternoon,paratha,Medium,No,Okay,Medium,Restaurant,None,0,0
+134,2024-11-25,Morning,egg curry,Large,Yes,Okay,High,Home,None,0,0
+135,2024-11-25,Afternoon,chicken curry,Small,Yes,Okay,High,Street,Fatigue,10,2
+136,2024-11-25,Evening,naan,Small,No,Okay,High,Office,None,0,0
+137,2024-11-26,Morning,paneer curry,Medium,No,Okay,Medium,Restaurant,Bloating,6,4
+138,2024-11-26,Afternoon,boiled eggs,Medium,No,Okay,Medium,Restaurant,Nausea,7,2
+139,2024-11-26,Evening,upma,Small,No,Okay,Medium,Restaurant,None,0,0
+140,2024-11-27,Morning,naan,Large,No,Poor,High,Street,None,0,0
+141,2024-11-27,Afternoon,omelette,Medium,No,Poor,High,Office,Nausea,4,4
+142,2024-11-28,Morning,poha,Medium,No,Poor,Medium,Office,None,0,0
+143,2024-11-28,Afternoon,pasta,Small,Yes,Poor,Medium,Home,Bloating,7,4
+144,2024-11-29,Morning,poha,Large,Yes,Okay,High,Home,None,0,0
+145,2024-11-29,Afternoon,butter chicken,Small,Yes,Okay,High,Street,Nausea,10,1
+146,2024-11-29,Evening,poha,Medium,Yes,Okay,High,Street,Acidity,5,2
+147,2024-11-30,Morning,dal,Large,No,Good,Low,Restaurant,None,0,0
+148,2024-11-30,Afternoon,fish,Medium,Yes,Good,Low,Office,Fatigue,7,2
+149,2024-12-01,Morning,omelette,Small,No,Good,Low,Home,None,0,0
+150,2024-12-01,Afternoon,salad,Small,Yes,Good,Low,Home,None,0,0
+151,2024-12-02,Morning,paratha,Small,Yes,Good,High,Office,None,0,0
+152,2024-12-02,Afternoon,paratha,Medium,No,Good,High,Street,Bloating,10,1
+153,2024-12-02,Evening,chole,Large,No,Good,High,Office,None,0,0
+154,2024-12-03,Morning,pulao,Medium,No,Okay,High,Office,None,0,0
+155,2024-12-03,Afternoon,chole,Large,Yes,Okay,High,Home,Gas,8,2
+156,2024-12-04,Morning,dal,Medium,Yes,Okay,High,Street,None,0,0
+157,2024-12-04,Afternoon,egg curry,Small,No,Okay,High,Home,None,0,0
+158,2024-12-04,Evening,boiled eggs,Large,No,Okay,High,Restaurant,None,0,0
+159,2024-12-05,Morning,naan,Large,No,Good,Low,Office,None,0,0
+160,2024-12-05,Afternoon,rice,Medium,No,Good,Low,Restaurant,None,0,0
+161,2024-12-06,Morning,fish,Large,Yes,Poor,High,Restaurant,Acidity,9,4
+162,2024-12-06,Afternoon,omelette,Small,Yes,Poor,High,Restaurant,None,0,0
+163,2024-12-07,Morning,egg curry,Medium,No,Okay,High,Restaurant,None,0,0
+164,2024-12-07,Afternoon,pasta,Medium,No,Okay,High,Street,None,0,0
+165,2024-12-07,Evening,naan,Medium,No,Okay,High,Office,None,0,0
+166,2024-12-08,Morning,whole wheat bread,Medium,Yes,Okay,Low,Home,Brain fog,7,2
+167,2024-12-08,Afternoon,butter chicken,Small,Yes,Okay,Low,Street,None,0,0
+168,2024-12-08,Evening,dosa,Small,Yes,Okay,Low,Home,None,0,0
+169,2024-12-09,Morning,butter chicken,Large,No,Poor,High,Restaurant,Gas,7,3
+170,2024-12-09,Afternoon,paratha,Medium,Yes,Poor,High,Home,Bloating,5,4
+171,2024-12-10,Morning,overnight oats,Small,No,Okay,Medium,Street,None,0,0
+172,2024-12-10,Afternoon,fish,Large,Yes,Okay,Medium,Restaurant,None,0,0
+173,2024-12-11,Morning,egg curry,Small,No,Good,Low,Restaurant,None,0,0
+174,2024-12-11,Afternoon,idli,Medium,No,Good,Low,Home,None,0,0
+175,2024-12-12,Morning,egg curry,Small,Yes,Good,Low,Home,None,0,0
+176,2024-12-12,Afternoon,naan,Small,No,Good,Low,Street,None,0,0
+177,2024-12-13,Morning,rajma,Small,Yes,Poor,Low,Home,None,0,0
+178,2024-12-13,Afternoon,idli,Large,No,Poor,Low,Home,None,0,0
+179,2024-12-14,Morning,poha,Large,Yes,Okay,Medium,Home,Nausea,4,1
+180,2024-12-14,Afternoon,fish,Large,No,Okay,Medium,Street,Fatigue,6,1
+181,2024-12-14,Evening,overnight oats,Medium,No,Okay,Medium,Street,Bloating,10,2
+182,2024-12-15,Morning,omelette,Large,No,Good,High,Street,None,0,0
+183,2024-12-15,Afternoon,pulao,Large,No,Good,High,Restaurant,Fatigue,8,4
+184,2024-12-15,Evening,curd,Large,Yes,Good,High,Office,None,0,0
+185,2024-12-16,Morning,boiled eggs,Small,No,Poor,Medium,Home,Bloating,5,3
+186,2024-12-16,Afternoon,chicken curry,Small,No,Poor,Medium,Street,Fatigue,9,1
+187,2024-12-16,Evening,chole,Medium,No,Poor,Medium,Home,Bloating,7,4
+188,2024-12-17,Morning,vegetables,Medium,Yes,Good,Low,Restaurant,None,0,0
+189,2024-12-17,Afternoon,roti,Large,No,Good,Low,Street,None,0,0
+190,2024-12-17,Evening,pulao,Small,No,Good,Low,Office,None,0,0
+191,2024-12-18,Morning,poha,Medium,Yes,Poor,Medium,Home,None,0,0
+192,2024-12-18,Afternoon,boiled eggs,Large,Yes,Poor,Medium,Restaurant,None,0,0
+193,2024-12-19,Morning,fish,Small,Yes,Poor,Medium,Street,Nausea,5,4
+194,2024-12-19,Afternoon,biryani,Medium,No,Poor,Medium,Home,None,0,0
+195,2024-12-20,Morning,curd,Small,Yes,Poor,Medium,Restaurant,Gas,5,1
+196,2024-12-20,Afternoon,upma,Small,Yes,Poor,Medium,Office,Nausea,10,1
+197,2024-12-20,Evening,paneer curry,Medium,Yes,Poor,Medium,Office,Bloating,6,4
+198,2024-12-21,Morning,upma,Large,No,Poor,Low,Restaurant,None,0,0
+199,2024-12-21,Afternoon,pulao,Large,Yes,Poor,Low,Office,Nausea,4,4
+200,2024-12-21,Evening,curd,Medium,No,Poor,Low,Restaurant,Gas,3,1
+201,2024-12-22,Morning,chole,Small,No,Good,Low,Street,None,0,0
+202,2024-12-22,Afternoon,pasta,Large,No,Good,Low,Street,Fatigue,5,2
+203,2024-12-22,Evening,omelette,Large,Yes,Good,Low,Street,Fatigue,7,2
+204,2024-12-23,Morning,pulao,Medium,No,Okay,High,Street,None,0,0
+205,2024-12-23,Afternoon,roti,Large,Yes,Okay,High,Home,Fatigue,10,2
+206,2024-12-24,Morning,beans curry,Small,No,Good,High,Street,None,0,0
+207,2024-12-24,Afternoon,bread,Medium,Yes,Good,High,Home,Bowel movement,7,3
+208,2024-12-25,Morning,rajma,Medium,No,Good,Medium,Office,None,0,0
+209,2024-12-25,Afternoon,curd,Large,No,Good,Medium,Office,Gas,7,2
+210,2024-12-25,Evening,milk,Large,Yes,Good,Medium,Office,Acidity,5,3
+211,2024-12-26,Morning,dal,Small,No,Good,Medium,Restaurant,None,0,0
+212,2024-12-26,Afternoon,boiled eggs,Large,No,Good,Medium,Office,None,0,0
+213,2024-12-26,Evening,butter chicken,Small,Yes,Good,Medium,Office,Gas,7,1
+214,2024-12-27,Morning,biryani,Large,Yes,Poor,Medium,Home,None,0,0
+215,2024-12-27,Afternoon,boiled eggs,Large,No,Poor,Medium,Home,None,0,0
+216,2024-12-27,Evening,upma,Small,No,Poor,Medium,Office,None,0,0
+217,2024-12-28,Morning,poha,Medium,No,Okay,Medium,Street,None,0,0
+218,2024-12-28,Afternoon,poha,Small,No,Okay,Medium,Home,None,0,0
+219,2024-12-29,Morning,poha,Small,No,Good,High,Home,Gas,6,1
+220,2024-12-29,Afternoon,paneer curry,Small,Yes,Good,High,Office,Acidity,6,4
