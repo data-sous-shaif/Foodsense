@@ -1,6 +1,10 @@
 # FoodSense  
 **Personal Health Analytics Platform | Python · Streamlit · Data Analysis**
 
+*Turning messy food logs into actionable health insights.*
+
+🔗 **Live App:** https://data-sous-shaif-foodsense-appstreamlit-app-liml0a.streamlit.app
+
 ## Problem
 After logging 200+ meals, I found that symptoms were inconsistent and difficult to interpret in raw data. Patterns felt real, but they were not visible when looking at individual meal logs.
 
