@@ -235,7 +235,7 @@ with left:
             df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
             df.to_csv(DATA_FILE, index=False)
             st.success("Meal logged. Updating your insights…")
-            st.experimental_rerun()
+            st.rerun()
 
     st.markdown("</div>", unsafe_allow_html=True)
 
