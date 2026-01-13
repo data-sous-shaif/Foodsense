@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # ---------- Paths & data ----------
-DATA_FILE = r"E:\Projects\Foodsense\data\foodsense_meals_symptoms.csv"
+DATA_FILE = r"data\foodsense_meals_symptoms.csv"
 
 if os.path.exists(DATA_FILE):
     df = pd.read_csv(DATA_FILE)
